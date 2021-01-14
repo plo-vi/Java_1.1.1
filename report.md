@@ -5,14 +5,13 @@
 14.01.2021 было проведено функциональное тестирование приложения KeyValidator.
 На тестирование затрачено: 0,3ч.
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/viktoriia287/Java_1.1.1/issues/1 (Blocker; High)
-* https://github.com/viktoriia287/Java_1.1.1/issues/2 (Blocker; High)
+* [#1 Валидные ключи признаны невалидными](https://github.com/viktoriia287/Java_1.1.1/issues/1)
+* [#2 Невалидные ключи признаны валидными](https://github.com/viktoriia287/Java_1.1.1/issues/2)
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты*:
-* Баг-репорт
-* Техническое задание (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+В процессе тестирования использовались следующие артефакты:
+* [Техническое задание](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 В качестве тестовых данных использовались данные из Технического задания:
 
